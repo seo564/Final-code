@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+numpy
+mss
+pyautogui
+plyer
+face_recognition
+screen_brightness_control
